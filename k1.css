@@ -1,0 +1,25 @@
+.but{
+    color: white;
+    background-color: blue;
+    height: 35px;
+    width: 100px;
+    padding: 10px 20px;
+    transition: background-color 0.25s;
+}
+
+#counting{
+    font-size: 120px;
+    
+}
+.every{
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+.but:hover{
+    background-color: aqua;
+    color: red;
+}
